@@ -7,9 +7,11 @@ https://www.trendverlag.com/Schema/Train.xsd
 Diese Dateien können textuell direkt im Browser untersucht werden oder man verwendet ein XSD-Diagramm-Programm.
 Für die Diagramme in diesem Ordner wurde das Tool von http://regis.cosnier.free.fr/?page=XSDDiagram verwendet:
 
-All.svg
+![All.svg](All.svg)
 
-Sutrackp.svg  
-Gleis.svg  
-Curve.svg  
-Twist.svg  
+![Sutrackp.svg](Sutrackp.svg)
+![Gleis.svg](Gleis.svg)
+![Curve.svg](Curve.svg)
+
+Twist.svg
+<img src="Twist.svg">
